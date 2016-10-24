@@ -23,25 +23,25 @@ var dresscodeone =
 "\nPense num futuro fictício de alguém numa trip de ácido nos anos 60. Roupas prateadas, acessórios fosforescentes, trajes espaciais, LEDs. Se piscar, melhor. Estamos deixando a a lista de referências bem aberta: ";
 
 var dresscodelinks =
-'<a href="https://www.google.com/search?espv=2&rlz=1C5CHFA_enUS546US548&biw=1583&bih=880&tbm=isch&sa=1&q=cyborg+fashion&oq=cyborg+fashion&gs_l=img.3...7430.9940.0.10261.0.0.0.0.0.0.0.0..0.0....0...1c.1.64.img..0.0.0.Q733UzcWEf4" target="_blank">Cyber</a>, ' +
+'<a href="http://www.google.com/images?q=cyborg+fashion" target="_blank">Cyber</a>, ' +
 
-'<a href="https://www.google.com/search?rlz=1C5CHFA_enUS546US548&biw=1583&bih=880&tbm=isch&sa=1&q=industrial+music+clothing&oq=industrial+music+clothing&gs_l=img.3...18169.19029.0.19158.0.0.0.0.0.0.0.0..0.0....0...1c.1.64.img..0.0.0.5aYC6c8JS_0#imgrc=71kch52DYbgO5M%3A" target="_blank">Industrial</a>, ' +
+'<a href="http://www.google.com/images?q=industrial+music+clothing" target="_blank">Industrial</a>, ' +
 
-'<a href="https://www.google.com/search?espv=2&rlz=1C5CHFA_enUS546US548&biw=1583&bih=880&tbm=isch&q=barbarella+clothing&spell=1&sa=X&ved=0ahUKEwi6mMCw2PHPAhVB5SYKHYjjBXIQvwUIGygA&dpr=1" target="_blank">Barbarella</a>, ' +
+'<a href="http://www.google.com/images?q=barbarella+clothing" target="_blank">Barbarella</a>, ' +
 
-'<a href="https://www.google.com/search?espv=2&rlz=1C5CHFA_enUS546US548&biw=1583&bih=880&tbm=isch&sa=1&q=capitol+fashion+hunger+games&oq=capitol+fashion+hunger+games&gs_l=img.3...12833.17557.0.17694.0.0.0.0.0.0.0.0..0.0....0...1c.1.64.img..0.0.0.7dhmRjaO2uY" target="_blank">Capitol (Jogos Vorazes)</a>, ' +
+'<a href="http://www.google.com/images?q=capitol+fashion+hunger+games" target="_blank">Capitol (Jogos Vorazes)</a>, ' +
 
-'<a href="https://www.google.com/search?espv=2&rlz=1C5CHFA_enUS546US548&biw=1583&bih=880&tbm=isch&sa=1&q=replicant+costumes&oq=replicant+costumes&gs_l=img.3...11642.11642.0.11735.0.0.0.0.0.0.0.0..0.0....0...1c.1.64.img..0.0.0._T0nh3zJjic" target="_blank">Replicantes</a>, ' +
+'<a href="http://www.google.com/images?q=replicant+costumes" target="_blank">Replicantes</a>, ' +
 
-'<a href="https://www.google.com/search?espv=2&rlz=1C5CHFA_enUS546US548&biw=1583&bih=880&tbm=isch&sa=1&q=mad+max+costume&oq=mad+max+costume&gs_l=img.3...14892.15624.0.15744.0.0.0.0.0.0.0.0..0.0....0...1c.1.64.img..0.0.0.zsZSu-6l340" target="_blank">Mad Max</a>, ' +
+'<a href="http://www.google.com/images?q=mad+max+costume" target="_blank">Mad Max</a>, ' +
 
-'<a href="https://www.google.com/search?espv=2&rlz=1C5CHFA_enUS546US548&biw=1583&bih=880&tbm=isch&sa=1&q=cite+des+enfants+perdus&oq=cite+des+enfants+perdus&gs_l=img.3...18678.23083.0.23283.0.0.0.0.0.0.0.0..0.0....0...1c.1.64.img..0.0.0.8eFhVWMsmZQ" target="_blank">Cidade das crianças perdidas</a>, ' +
+'<a href="http://www.google.com/images?q=cite+des+enfants+perdus" target="_blank">Cidade das crianças perdidas</a>, ' +
 
-'<a href="https://www.google.com/search?espv=2&rlz=1C5CHFA_enUS546US548&biw=1583&bih=880&tbm=isch&sa=1&q=bauhaus+costumes&oq=bauhaus+costumes&gs_l=img.3...28006.31083.0.31202.0.0.0.0.0.0.0.0..0.0....0...1c.1.64.img..0.0.0.YmgoWtHCMCw" target="_blank">Bauhaus (a escola, não a banda)</a>, ' +
+'<a href="http://www.google.com/images?q=bauhaus+costumes" target="_blank">Bauhaus (a escola, não a banda)</a>, ' +
 
-'<a href="https://www.google.com/search?espv=2&rlz=1C5CHFA_enUS546US548&biw=1583&bih=880&tbm=isch&sa=1&q=coruscant+fashion&oq=coruscant+fashion&gs_l=img.3...2821.3498.0.3682.0.0.0.0.0.0.0.0..0.0....0...1c.1.64.img..0.0.0.jgvBdgjXj9Q" target="_blank">Coruscant (Star Wars)</a>, ' +
+'<a href="http://www.google.com/images?q=coruscant+fashion" target="_blank">Coruscant (Star Wars)</a>, ' +
 
-'<a href="https://www.google.com/search?espv=2&rlz=1C5CHFA_enUS546US548&biw=1583&bih=880&tbm=isch&sa=1&q=daft+punk+fashion&oq=daft+punk+fashion&gs_l=img.3...14720.17741.0.17919.0.0.0.0.0.0.0.0..0.0....0...1c.1.64.img..0.0.0._H98WyvwZGs" target="_blank">Daft Punk</a>';
+'<a href="http://www.google.com/images?q=daft+punk+fashion" target="_blank">Daft Punk</a>';
 
 var dresscodetwo =
 ". Pense visores, comunicadores, computadores, indicadores luminosos, robôs. Abuse de maquiagem. Rua da Alfândega e Mercado Livre são seus maiores aliados. Se não estiver um pouco constrangido de sair na rua, não se esforçou o suficiente.\n\n" +
@@ -90,7 +90,7 @@ $(function () {
         jqconsole.Write(perguntas + '\n', 'jqconsole-output');
       } else if (input == "rsvp") {
         jqconsole.Write(rsvp, 'jqconsole-output');
-        jqconsole.Append($('<a href="https://docs.google.com/forms/d/1ttbzfs7C_yjGPwVLQ2DMxie89Btw2rLR-DHkYKh2e4U" target="_blank">link</a>'));
+        jqconsole.Append($('<a href="https://goo.gl/forms/gakNu16Unuok5GS32" target="_blank">link</a>'));
         jqconsole.Write(".\n\n", 'jqconsole-output');
       } else if (input == "contato") {
         jqconsole.Write(contato + '\n', 'jqconsole-output');
