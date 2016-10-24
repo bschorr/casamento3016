@@ -1,0 +1,96 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+
+body {
+	padding-top: 50px;
+	padding-bottom: 20px;
+}
+
+video#bgvid { 
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    z-index: -100;
+    -ms-transform: translateX(-50%) translateY(-50%);
+    -moz-transform: translateX(-50%) translateY(-50%);
+    -webkit-transform: translateX(-50%) translateY(-50%);
+    transform: translateX(-50%) translateY(-50%);
+    background: url(background.jpg) no-repeat;
+    background-size: cover; 
+}
+
+#grid {
+  position: absolute; 
+  top: 0; 
+  right: 0; 
+  bottom: 0; 
+  left: 0;
+  background-image: url(../img/grid.png);
+  background-repeat: repeat;
+  background-color: rgba(34,28,6,0.3);
+}
+
+a {
+  color: #fff;
+}
+
+/*JQ Console*/
+
+#console {
+  width: 100%;
+  margin: 0 auto;
+  color: #fff;
+  font-size: 14px;
+
+}
+ pre {
+  white-space: pre-wrap;
+ }
+
+.jqconsole {
+  padding: 10px;
+  padding-bottom: 10px;
+  max-width: 800px;
+}
+.jqconsole-cursor {
+  background-color: #fff;
+  height: 2px;
+  margin-top: 15px;
+}
+.jqconsole-blurred .jqconsole-cursor {
+  background-color: #fff;
+}
+.jqconsole-prompt {
+  color: #fff;
+}
+.jqconsole-old-prompt {
+  color: #fff;
+  font-weight: normal;
+}
+.jqconsole-input {
+  color: #fff;
+}
+.jqconsole-old-input {
+  color: #fff;
+  font-weight: normal;
+}
+.brace {
+  color: #fff;
+}
+.paran {
+  color: #fff;
+}
+.bracket {
+  color: #fff;
+}
+.jqconsole-composition {
+  background-color: red;
+}

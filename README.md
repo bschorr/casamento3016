@@ -1,1 +1,3 @@
-# casamento3016
+# Casamento 3016
+
+Code for our wedding website.
