@@ -58,7 +58,7 @@ var faq =
 "Is there no registry?\n" + 
 "No, but thank you! Our home in the future is mostly ready. Taking presents in time travel is pretty complicated. If generosity is high, be in touch and we'll gladly accept a present. Or we suggest a donation to one of the following organizations: Amnesty International, Doctors Without Borders, The Ali Forney Center.\n";
 
-var contato = 
+var contact = 
 "\nIt's easy to reach us at mariapaula.saba@gmail.com & bernardo.schorr@gmail.com\n";
 
 var error = 
