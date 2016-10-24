@@ -59,7 +59,18 @@ var perguntas =
 "Não, mas muito obrigado! Já temos casa montada no futuro e moramos longe. Levar qualquer coisa em viagem do tempo é difícil. Se a generosidade estiver alta, entre em contato que arrumamos um jeito de sermos presenteados ou então sugerimos uma doação a uma das seguintes organizações: Anistia Internacional, Médicos sem Fronteiras, Saúde Criança, Viva Rio ou Grupo Arco-Íris.\n";
 
 var rsvp = 
-"\n Para confirmar presença, visite esse ";
+"\nPara confirmar presença, visite esse ";
+
+var contato = 
+"\nÉ fácil encontrar a gente através dos e-mails mariapaula.saba@gmail.com & bernardo.schorr@gmail.com\n";
+
+var erro = 
+"\nComando não encontrado. Tente um dos comandos abaixo:\n\n" +
+"- 'festa': informações sobre a celebração\n" +
+"- 'dress code': como se vestir\n" + 
+"- 'perguntas': respostas para -quase- todas as perguntas\n" +
+"- 'rsvp': confirme sua presença\n" +
+"- 'contato': precisando, fale conosco.\n\n";
 
 $(function () {
   var jqconsole = $('#console').jqconsole(home, '> ');
@@ -81,6 +92,10 @@ $(function () {
         jqconsole.Write(rsvp, 'jqconsole-output');
         jqconsole.Append($('<a href="https://docs.google.com/forms/d/1ttbzfs7C_yjGPwVLQ2DMxie89Btw2rLR-DHkYKh2e4U" target="_blank">link</a>'));
         jqconsole.Write(".\n\n", 'jqconsole-output');
+      } else if (input == "contato") {
+        jqconsole.Write(contato + '\n', 'jqconsole-output');
+      } else {
+        jqconsole.Write(erro, 'jqconsole-output');
       }
       //jqconsole.Write(input + '\n', 'jqconsole-output');
       // Restart the prompt.
