@@ -7,7 +7,7 @@ var home =
 "- 'contact': in need, get in touch\n\n";
 
 var party = 
-"\nThe year is 3016. The sea level is well above the 2nd floor in buildings. Floating vehicles and drones dot an almost birdless sky. Artificial super-intelligence is a rea;ity. Reproduction is controlled as dying became optional. If the world has changed a lot, humanity is still pretty similar, and marrying among friends is still enormous;y important.\n\n" +
+"\nThe year is 3016. The sea level is well above the 2nd floor of buildings. Floating vehicles and drones dot an almost birdless sky. Artificial super-intelligence is a reality. Reproduction is controlled as dying became optional. If the world has changed a lot, humanity is still pretty similar, and marrying among friends is still enormously important.\n\n" +
 
 "We invite you, cybernetic friends, to celebrate our wedding in 3016. It will be an open bar celebration.\n\n" + 
 
